@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Inicio.unity
+    guid: 5ae1f6c549fcb1b4195a9831c62fa238
+  - enabled: 1
+    path: Assets/Scenes/Creditos.unity
+    guid: 47c0a0a1c7c31bf4da916184d477d32d
+  - enabled: 1
+    path: Assets/Scenes/Mapa.unity
+    guid: 9ef94cda9d3544947b729d84b18b0b62
+  - enabled: 1
+    path: Assets/Scenes/MenuMN3.unity
+    guid: b4ecbaef49dd38d499734921bdcfc42a
+  - enabled: 1
+    path: Assets/Scenes/Fase 3.unity
+    guid: 21e4d5813de9ce5458e81c7d727e538a
+  - enabled: 1
+    path: Assets/Scenes/Fase 4.unity
+    guid: fb886c6932c8c2a4fa92e51bc0509058
+  - enabled: 1
+    path: Assets/Scenes/GameOverMN3.unity
+    guid: 6362c32afe347ee4995fa3ad27745c8f
+  - enabled: 1
+    path: Assets/Scenes/MiniJogo1.unity
+    guid: fa3df31fc06b8b44dbeb52fe6d5857ca
+  - enabled: 1
+    path: Assets/Scenes/CenaDerrota.unity
+    guid: ae6d17292a49ab3479cbd73a4b50ef0d
+  m_configObjects: {}
